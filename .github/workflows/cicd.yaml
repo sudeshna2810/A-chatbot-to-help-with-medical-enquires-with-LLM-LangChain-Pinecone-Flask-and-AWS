@@ -1,3 +1,5 @@
+# force trigger
+
 name: Deploy Application Docker Image to EC2 instance
 
 on:
